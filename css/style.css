@@ -1,0 +1,31 @@
+
+#main{
+    background: aliceblue;
+    background-size: cover;
+    background-blend-mode: soft-light;
+    background-repeat: no-repeat;
+}
+
+#container {
+    display: flex;           /* establish flex container */
+    flex-direction: column;  /* make main axis vertical */
+    justify-content: center; /* center items vertically, in this case */
+    align-items: center;     /* center items horizontally, in this case */
+    height: 100vh;
+}
+
+.box {
+    text-align: center;     /* will center text in <p>, which is not a flex item */
+}
+#main-text h1{
+    font-size: 3rem;
+    font-weight:thin;
+    text-space: 1rem;
+    color: #2d2a30;
+    font-family: 'PT Sans', sans-serif;
+}
+
+img{
+    margin-bottom: 1rem;
+    width: 15%;
+}
