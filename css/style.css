@@ -19,7 +19,7 @@
 }
 #main-text h1{
     font-size: 3rem;
-    font-weight:thin;
+    font-weight:lighter;
     text-space: 1rem;
     color: #2d2a30;
     font-family: 'PT Sans', sans-serif;
@@ -28,4 +28,10 @@
 img{
     margin-bottom: 1rem;
     width: 15%;
+}
+@media (max-width: 1024px)
+{
+    img{
+        width: 45%;
+    }
 }
