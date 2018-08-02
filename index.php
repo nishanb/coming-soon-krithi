@@ -31,11 +31,11 @@
 
         <div class="box text-s" id="main-text">
             <h3 class="c-txt">We're Coming Soon</h3>
-            <h6>Maintained By <a href="http://youflik.com" class="btn-link" style="text-decoration: none;">Youflik Web Development Studio</a></h6>
+            <h6>Maintained By <a href="http://youflik.com" class="btn-link" style="text-decoration: none;color: #000000!important;">Youflik Web Development Studio</a></h6>
         </div>
 
         <div style="position:fixed; width:100%; height:80px;padding:5px; bottom:0px;" class="text-center text-s">
-            <a href="https://www.instagram.com/krithicarcare">Follow us on <i style="font-size:24px" class="fa ">&#xf16d;</i></a>
+            <a href="https://www.instagram.com/krithicarcare" style="text-decoration: none;">Follow us on  <i style="font-size:32px" class="fa mt-auto">&#xf16d;</i></a>
         </div>
 
         <div style="position:fixed; width:100%; height:40px;padding:5px; bottom:0px;" class="text-center text-s">
