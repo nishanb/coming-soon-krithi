@@ -35,7 +35,7 @@
         </div>
 
         <div style="position:fixed; width:100%; height:80px;padding:5px; bottom:0px;" class="text-center text-s">
-            <a href="https://www.instagram.com/krithicarcare"><i style="font-size:24px" class="fa">&#xf16d;</i></a>
+            <a href="https://www.instagram.com/krithicarcare">Follow us on <i style="font-size:24px" class="fa ">&#xf16d;</i></a>
         </div>
 
         <div style="position:fixed; width:100%; height:40px;padding:5px; bottom:0px;" class="text-center text-s">
