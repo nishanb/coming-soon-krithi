@@ -20,11 +20,15 @@
     <div id="container">
 
         <div class="box img-s">
-            <img class="img-fluid" src="img/logo1.png">
+            <img class="img-fluid" src="img/logo_main.png">
+            <br/>
+            <div class="text-capitalize " style="font-size: 4rem;color: #4169e2!important;margin-top: -1rem;">Car Care</div>
+            <p style="color:#95C535!important;">Care that your car deserves</p>
+            <br/>
         </div>
 
         <div class="box text-s" id="main-text">
-            <h1>We're Coming Soon</h1>
+            <h3>We're Coming Soon</h3>
             <br>
             <h6>Maintained By <a href="http://youflik.com" class="btn-link">Youflik Web Devlopment Studio</a></h6>
         </div>
@@ -35,8 +39,8 @@
 <!--  JavaScript -->
 <script>
     window.sr = ScrollReveal();
-    sr.reveal('.img-s', {duration: 2000, origin: 'top', distance: '200px'});
-    sr.reveal('.text-s', {duration: 2000, origin: 'top', distance: '200px'});
+    //sr.reveal('.container', {duration: 2000, origin: 'top', distance: '200px'});
+    sr.reveal('.text-s', {duration: 2000, origin: 'bottom', distance: '200px'});
 
 </script>
 </body>
