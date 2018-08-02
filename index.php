@@ -35,7 +35,7 @@
         </div>
 
         <div style="position:fixed; width:100%; height:80px;padding:5px; bottom:0px;" class="text-center text-s">
-            <a href="https://www.instagram.com/krithicarcare" style="text-decoration: none;">Follow us on  <i style="font-size:32px" class="fa mt-auto">&#xf16d;</i></a>
+            <a href="https://www.instagram.com/krithicarcare" style="text-decoration: none;font-size:20px;"> Follow us on </a><span><i style="font-size:20px;line-height: 30px;" class="fa mt-auto" >&#xf16d;</i></span>
         </div>
 
         <div style="position:fixed; width:100%; height:40px;padding:5px; bottom:0px;" class="text-center text-s">
