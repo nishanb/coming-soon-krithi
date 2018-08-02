@@ -1,8 +1,7 @@
 
 #main{
-    background: aliceblue;
+    background: #ffffff;
     background-size: cover;
-    background-blend-mode: soft-light;
     background-repeat: no-repeat;
 }
 
@@ -34,4 +33,7 @@ img{
     img{
         width: 45%;
     }
+}
+.c-txt{
+    font-family: 'Varela', sans-serif;
 }
